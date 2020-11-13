@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1605272185,
+	"version": 1605276361,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,8 @@
 		"nameh-sheet0.png",
 		"heart-sheet0.png",
 		"heart-sheet1.png",
+		"sprite-sheet0.png",
+		"sprite2-sheet0.png",
 		"granny-horror-game-theme-music-piano-tutorial-piano-co_58042.ogg",
 		"icon-16.png",
 		"icon-32.png",
