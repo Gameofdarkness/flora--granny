@@ -1,0 +1,31 @@
+﻿{
+	"version": 1605272185,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"bgmenu-sheet0.png",
+		"bottun-sheet0.png",
+		"exitmennuu-sheet0.png",
+		"kadr-sheet0.png",
+		"tile.png",
+		"granny-sheet0.png",
+		"tiledbackground.png",
+		"player-sheet0.png",
+		"left_b-sheet0.png",
+		"right_b-sheet0.png",
+		"pictures-sheet0.png",
+		"ovigranny-sheet0.png",
+		"nameh-sheet0.png",
+		"heart-sheet0.png",
+		"heart-sheet1.png",
+		"granny-horror-game-theme-music-piano-tutorial-piano-co_58042.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
